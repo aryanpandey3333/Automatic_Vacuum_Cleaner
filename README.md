@@ -1,2 +1,2 @@
 # Automatic_Vacuum_Cleaner
- This project demonstrates the potential of robotics and automation in improving household tasks and has practical applications in various domains, such as home cleaning and commercial cleaning services.
+An automatic vacuum cleaner is a robotic device that uses sensors and algorithms to navigate and clean floors without human intervention. The device can be programmed to clean at certain times and can detect and avoid obstacles such as furniture and walls. This project demonstrates the potential of robotics and automation in improving household tasks and has practical applications in various domains, such as home cleaning and commercial cleaning services.
